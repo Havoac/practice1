@@ -7,6 +7,7 @@ namespace ExampleProj
     {
         public static void Main(string[] args)
         {
+            int i, j;
             Debug.WriteLine("Hey");
         }
     }
