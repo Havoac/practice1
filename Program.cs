@@ -9,6 +9,8 @@ namespace ExampleProj
         {
             int i, j;
             Debug.WriteLine("Hey");
+            Debug.Write("Ok1");
+            Debug.Write("Ok2");
         }
     }
 }
